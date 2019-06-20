@@ -1,0 +1,14 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --verbose"
+  },
+  "repository": "https://github.com/mjenkins9605/webtesting-i-challenge.git",
+  "author": "Michael Jenkins <mjenkins9605@vidangel.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
